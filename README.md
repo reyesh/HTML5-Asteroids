@@ -1,5 +1,5 @@
-HTML5-Asteroids
+HTML5-Asteroids-vjs
 ===============
 
-Pure Javascript Asteroids, based on http://dougmcinnes.com/2010/05/12/html-5-asteroids/ 
+Pure VANILLA Javascript Asteroids, based on http://dougmcinnes.com/2010/05/12/html-5-asteroids/ 
 Source https://github.com/dmcinnes/HTML5-Asteroids
